@@ -2,6 +2,8 @@ langchain
 langgraph
 tavily-python
 BeautifulSoup4
+selenium
+webdriver-manager
 openai
 flask
 json5
